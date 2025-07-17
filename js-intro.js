@@ -3,8 +3,8 @@ Text print
 var/let/const 
 operator using
 convert price
-varriable updating 
-increament and decreament
+variable updating 
+increment and decrement
 
 var a = 20;
 //console.log(a);

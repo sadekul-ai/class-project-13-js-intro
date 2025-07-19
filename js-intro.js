@@ -1,9 +1,9 @@
 
 Text print
-var/let/const 
+data storage by var/let/const 
 operator using
 convert price
-variable updating 
+information updating 
 increment and decrement
 
 var a = 20;
